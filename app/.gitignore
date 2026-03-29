@@ -1,0 +1,8 @@
+# App build folder
+build/
+
+# Generated files
+generated/
+
+# Local configuration
+local.properties
